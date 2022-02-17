@@ -1,0 +1,124 @@
+
+.titulo {
+  padding: 15px;
+  width: 30vw;
+  margin: auto;
+
+}
+
+.btn {
+  border: 0;
+  color: white;
+  font-weight: bold;
+  background-color: blue;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 0.5em;
+}
+
+.Jf
+{
+  border: 0;
+  color: white;
+  font-weight: bold;
+  background-color: blue;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 0.5em;
+}
+
+.text-input {
+  border-radius: 0.5em;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  display: block;
+  padding: 0.5em;
+  width: 30%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#horca
+{
+    height:  210px;
+    width: 208px;
+    background-image: url('./ahorcado.png');
+    position: absolute; 
+   
+    left: 500px;
+    top: 900px;
+  
+}
+
+#output
+{
+  position: absolute; 
+   
+    left: 900px;
+    top: 1050px;
+
+}
+
+body 
+{
+  background-image: url("./12.jpg");
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.horca
+{
+  position: absolute;
+  /*margin: auto;*/
+  top: 140%;
+  left: 70%;
+}
+.Jf
+{
+  position: absolute;
+  /*margin: auto;*/
+  top: 170%;
+  left: 60%;
+}
+.text-input2
+{
+  position: absolute;
+  /*margin: auto;*/
+  top: 170%;
+  left: 70%;
+}
+
+#win
+{
+  color: green;
+  display: none;
+  height: 100vh;
+  display:  center;
+  position: absolute;
+  top: 130%;
+  left: 70%;
+}
+
+#lose
+{
+  color: red;
+  display: none;
+  height: 100vh;
+  display:  center;
+  position: absolute;
+  top: 130%;
+  left: 70%;
+}
+
+
+.mayuscula
+{
+  color: red;
+  display: none;
+  height: 100vh;
+  display:  center;
+  position: absolute;
+  top: 130%;
+  left: 70%;
+}
+
